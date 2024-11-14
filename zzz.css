@@ -1,0 +1,13 @@
+@media screen and (max-width: 1150px) and (min-width: 950px){
+
+section .projects1 .pr1 img{height: 250px; width: 170px;}
+
+section .projects1 .pr1 .flex h1 {
+    position: relative;
+    right: 30px;
+}
+section .projects1 .pr1 .flex h5{
+    position: relative;
+    left: 30px;
+}
+}
